@@ -381,10 +381,10 @@ listType: 1,
 ]},
 { "title": "Contato",
 "rows": [{
-"title": "https://wa.me/SEUNÚMERO",
-"rowId": "https://wa.me/SEUNÚMERO" },
-{ "title": "https://www.instagram.com/SEU@/",
-"rowId": "https://www.instagram.com/SEU@/" }] },
+"title": "https://wa.me/21975077939",
+"rowId": "https://wa.me/21975077939" },
+{ "title": "https://www.instagram.com/@sou_noobyt/",
+"rowId": "https://www.instagram.com/@sou_noobyt/" }] },
 										
 { "title": "Informações",
 "rows": [{
@@ -392,7 +392,7 @@ listType: 1,
 "rowId": "" },
 { "title": "Ano: 2021",
 "rowId": "" },
-{ "title": "Criador: SEU NOME",
+{ "title": "Criador: Sou Noob YT",
 "rowId": ""
 }]
 									  
