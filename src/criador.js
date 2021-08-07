@@ -3,9 +3,9 @@ const criador = (prefix, pushname) => {
 「 Divirta-se! ღ 」
   ♛ Criador : Sou Noob YT
   ⊹ Twitter: @sou_noobyt
+  ⊹ Insta: @sou_noobyt
   ⊹ Dublagem: Juubbs Avakin
   ⊹ Instagram: @juubbs_avakin
-  ⊹ Auxílio: Thoth
   ♦ Site: www.youtube.com/c/SouNoobYT 」`
 }
 
