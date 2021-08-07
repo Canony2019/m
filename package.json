@@ -17,19 +17,18 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Sou Noob YT",
+  "author": "SouNoobYT",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
     "async": "^3.2.0",
     "axios": "^0.21.1",
     "cfonts": "^2.9.0",
-    "escape-string-regexp": "^4.0.0",
+    "escape-string-regexp": "^5.0.0",
     "fake-useragent": "^1.0.1",
     "file-type": "^16.2.0",
     "fluent-ffmpeg": "^2.1.2",
-    "image-to-base64": "^2.1.1",
-    "imgbb-uploader": "^1.3.0",
+    "lolis.life": "^4.0.0",
     "moment-timezone": "^0.5.32",
     "multistream": "^4.0.1",
     "node-fetch": "^2.6.1",
@@ -40,10 +39,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Canony2019/m.git"
+    "url": "git+https://github.com/Canony2019/m"
   },
   "bugs": {
-    "url": "https://github.com/Canony2019/m"
+    "url": "https://github.com/Canony2019/m/issues"
   },
   "homepage": "https://github.com/Canony2019/m#readme"
 }
