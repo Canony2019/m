@@ -1,20 +1,13 @@
 const {
+const {
     WAConnection,
     MessageType,
     Presence,
     Mimetype,
-    MessageOptions,
-    WALocationMessage,
-    WA_MESSAGE_STUB_TYPES,
-    ReconnectMode,
-    ProxyAgent,
-    waChatKey,
-    mentionedJid,
-    processTime,
     GroupSettingChange
 } = require('@adiwajshing/baileys')
 const { color, bgcolor } = require('./lib/color')
-const { help } = require('./src/comm4nd')
+const { help } = require('./comm4nd/help')
 const { getBuffer, h2k, simih, generateMessageID, getGroupAdmins, getRandom, banner, start, info, success, close } = require('./lib/functions')
 const { fetchJson, fetchText } = require('./lib/fetcher')
 const { recognize } = require('./lib/ocr')
