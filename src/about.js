@@ -6,7 +6,7 @@ const about = (prefix, pushname) => {
   » Versão: 4.0
   » Plataforma: Mobile
   » Sistema: Android
-  » Criador: Sou Noob YT 」`
+  » Criador: ReiNoob 」`
 }
 
 exports.about = about
