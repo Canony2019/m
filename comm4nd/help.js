@@ -43,7 +43,7 @@ const help = (prefix) => {
   └─ ⊹ Criador
 
 「 ${pushname} qualquer bug:
-  » https://www.youtube.com/c/SouNoobYT 」`
+  » https://www.youtube.com/c/Rahdixz 」`
 }
 
 exports.help = help
