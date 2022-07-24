@@ -42,6 +42,6 @@ exports.wpp = (pushname) => {
   └─ ⊹ Criador
 
 「 ${pushname} qualquer bug:
-  » https://www.youtube.com/c/SouNoobYT 」
+  » https://www.youtube.com/c/Rahdixz 」
 `
 }
